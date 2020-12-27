@@ -19,3 +19,24 @@ li a {
 li a:hover {
     text-decoration: underline;
 }
+
+.google_logo {
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+.google_form {
+    margin: 0 auto;
+    width: 575px; 
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+}
+
+.google_form:hover {
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.google_form:focus-within {
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    outline: none;
+}
