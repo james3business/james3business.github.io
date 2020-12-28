@@ -23,6 +23,9 @@ li a:hover {
 .google_logo {
     margin-top: 200px;
     margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .google_form {
