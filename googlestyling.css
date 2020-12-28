@@ -14,6 +14,7 @@ li a {
     padding: 10px 10px;
     text-decoration: none;
     font-size: 14px;
+    font-family: sans-serif;
 }
 
 li a:hover {
@@ -36,7 +37,7 @@ li a:hover {
 
 .form_input {
     font-size: 100%;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: sans-serif;
     margin:auto;
     width: 575px;
     height: 60px; 
@@ -54,8 +55,9 @@ li a:hover {
     outline: none;
 }
 
-.submit_button {
+.submit_buttons {
     margin-top: 30px;
+    text-align: center;
 }
 
 .submit_button {
@@ -64,11 +66,14 @@ li a:hover {
     color: #707070;
     font-size: 15px;
     padding: 10px 20px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 4px;
     outline: none;
 }
 
+.submit_button:hover {
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
 .submit_button:focus {
     border: 1px solid #4885ed;
     padding: 9px 19px;
