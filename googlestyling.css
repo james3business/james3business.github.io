@@ -85,8 +85,17 @@ li a:hover {
     padding: 9px 19px;
 }
 
+h2 {
+    color: rgb(255, 115, 0);
+    font: sans-serif;
+}
+
 .field {
     font-family:sans-serif;
+}
+
+.textinput, .textinput1, .textinput2 {
+    height: 28px;
 }
 
 #field1 {
@@ -98,29 +107,29 @@ li a:hover {
 #field2 {
     width: 30%;
     display: inline;
-    margin-left: 3.6%;
+    margin-left: 3.2%;
 }
 
 #field3 {
     width: 30%;
     display: inline;
-    margin-left: 5.7%;
+    margin-left: 5.6%;
 }
 
 #field4 {
     width: 30%;
     display: inline;
-    margin-left: 5.3%;
+    margin-left: 5.1%;
 }
 
 #field5 {
-    width: 14%;
+    width: 14.25%;
     display: inline;
-    margin-left: 4.5%;
+    margin-left: 4.4%;
 }
 
 #field6 {
-    width: 14%;
+    width: 14.25%;
     display: inline;
 }
 
@@ -130,13 +139,14 @@ li a:hover {
 }
 
 #abutton {
-    background-color: auto;
-    border: none;
-    color: #707070;
+    background-color: rgb(0, 110, 255);
+    border: black;
+    color: whitesmoke;
     font-size: 15px;
     padding: 10px 20px;
-    margin: 10px;
-    border-radius: 4px;
+    margin: 20px;
+    margin-left: 35%;
+    border-radius: 2px;
     outline: none;
 }
 
