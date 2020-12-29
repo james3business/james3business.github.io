@@ -84,3 +84,66 @@ li a:hover {
     border: 1px solid #4885ed;
     padding: 9px 19px;
 }
+
+.field {
+    font-family:sans-serif;
+}
+
+#field1 {
+    width: 30%;
+    display: inline;
+    margin-left: 7%;
+}
+
+#field2 {
+    width: 30%;
+    display: inline;
+    margin-left: 3.6%;
+}
+
+#field3 {
+    width: 30%;
+    display: inline;
+    margin-left: 5.7%;
+}
+
+#field4 {
+    width: 30%;
+    display: inline;
+    margin-left: 5.3%;
+}
+
+#field5 {
+    width: 14%;
+    display: inline;
+    margin-left: 4.5%;
+}
+
+#field6 {
+    width: 14%;
+    display: inline;
+}
+
+.abuttons {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#abutton {
+    background-color: auto;
+    border: none;
+    color: #707070;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+#abutton:hover {
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+#abutton:focus {
+    border: 1px solid #4885ed;
+    padding: 9px 19px;
+}
