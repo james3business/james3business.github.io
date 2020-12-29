@@ -30,10 +30,16 @@ li a:hover {
 }
 
 .google_form {
-    margin:auto;
+    margin: auto;
     width: 575px;
     height: 60px; 
 }
+
+.images_form {
+    margin: auto;
+    width: 575px;
+    height: 60px;
+}   
 
 .form_input {
     font-size: 100%;
