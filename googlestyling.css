@@ -99,6 +99,13 @@ li a:hover {
     background-color: #dddddd;
 }
 
+.alogo {
+    width: 5vw;
+    height: auto;
+    margin-top: .5vw;
+    margin-left: .5vw;
+    margin-bottom: .5vw;
+}
 h2 {
     margin-left: 1.5vw;
     margin-top: 1.5vw;
@@ -110,15 +117,17 @@ h2 {
 h3 {
     margin-left: 1.5vw;
     margin-top: 1.5vw;
-    color: black;
+    margin-bottom: 1vw;
+    color: rgb(68, 67, 67);
     font-family: arial;
     font-size: 17px;
+
 }
 
 .field {
     font-family:sans-serif;
     margin-left: 1.5vw;
-    
+
 }
 
 .textinput, .textinput1, .textinput2 {
